@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Talón Raja'o - Comida Tradicional</title>
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="box-shadow"></div>
+        <div class="contenedor">
+            <div class="barra">
+                <a href="index.html" class="logo">
+                </a>
+
+                <nav class="navegacion">
+                    <a href="entradas.html" class="navegacion__enlace">Entradas Adicionales</a>
+                    <a href="desayuno.html" class="navegacion__enlace">Desayuno Chinchano</a>
+                    <a href="dulcestipico.html" class="navegacion__enlace">Dulces Típicos</a>
+                    <a href="tragos.html" class="navegacion__enlace">Bebidas Típicas</a>
+                </nav>
+            </div>
+            
+            <div class="header__texto">
+                <h2 class="no-margin">Auténtica Comida Tradicional</h2>
+                <p class="header__slogan">Sabores que evocan recuerdos y crean momentos</p>
+                <a href="#platos" class="btn">Ver Especialidades</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="seccion">
+       
+    </section>
+
+    <section id="platos" class="seccion seccion--clara">
+      
+    </section>
+
+    <footer class="footer">
+        <div class="contenedor">
+            <div class="footer__contenido">
+                <div class="footer__seccion">
+                    <h4>Talón Raja'o</h4>
+                    <p>Auténtica comida tradicional preparada con recetas ancestrales y los mejores ingredientes.</p>
+                </div>
+                
+                <div class="footer__seccion">
+                    <h4>Enlaces Rápidos</h4>
+                    <a href="index.html" class="footer__enlace">Inicio</a>
+                    <a href="nosotros.html" class="footer__enlace">Nosotros</a>
+                    <a href="menu.html" class="footer__enlace">Menú Completo</a>
+                    <a href="contacto.html" class="footer__enlace">Contacto</a>
+                </div>
+                
+                <div class="footer__seccion">
+                    <h4>Horario de Atención</h4>
+                    <p>Lunes a Sábado: 8:00 am - 10:00 pm</p>
+                    <p>Domingo: 9:00 am - 8:00 pm</p>
+                </div>
+                
+                <div class="footer__seccion">
+                    <h4>Contáctanos</h4>
+                    <p><i class="fas fa-map-marker-alt"></i> Av. Principal 123, Chincha</p>
+                    <p><i class="fas fa-phone"></i> (01) 456-7890</p>
+                    <p><i class="fas fa-envelope"></i> info@talonrajao.com</p>
+                    
+                    <div class="footer__redes">
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-whatsapp"></i></a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer__copyright">
+                <p>&copy; 2023 Talón Raja'o - Todos los derechos reservados</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
