@@ -35,7 +35,7 @@ body {
 
 p {
     font-size: 1.6rem;
-    color: var(--negro);
+    color: var(--blanco);
     margin: 0 0 1.5rem 0;
 }
 
@@ -252,7 +252,7 @@ h4 {
 }
 
 .entrada__imagen {
-    height: 25rem;
+    height: 55rem;
     overflow: hidden;
 }
 
@@ -268,12 +268,12 @@ h4 {
 }
 
 .entrada__contenido {
-    padding: 2.5rem;
+    padding:3rem;
 }
 
 .entrada__titulo {
     color: var(--primario);
-    font-size: 2.4rem;
+    font-size: 3.0rem;
     margin-bottom: 1.5rem;
     border-bottom: 2px solid var(--secundario);
     padding-bottom: 0.5rem;
